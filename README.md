@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahmoudelbannan1
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react framework
+- 🌱 I’m currently learning react and angular framework
 - As a seasoned MEARN (MongoDB, Express.js, Angular, React.js, Node.js) full-stack developer, I'm all about building awesome web applications that users love to interact with. With over 2 years of hands-on experience, I've honed my skills to create dynamic and user-friendly solutions that really wow clients.
 
 Here's what I bring to the table:
